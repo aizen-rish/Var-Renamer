@@ -1,2 +1,3 @@
 # Var-Renamer
-A variable name replcer in C-based code.
+Name Replacement by suffixing type character to data type (int ,float, long, pointer etc.) in C-based code.
+
